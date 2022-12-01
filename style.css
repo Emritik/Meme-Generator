@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+.nav {
+    background-color: rgb(168, 41, 41);
+}
+.heading {
+    text-align: center;
+    margin: 0;
+}
+.line {
+    text-align: center;
+
+}
+.input {
+    background-color: aliceblue;
+    display: inline-flex;
+    font-size: 28px;    
+}
+input {
+    margin-left: 5px;
+    border-radius: 5px;
+    font-size: 25px;
+    word-wrap: wrap;
+}
+.button {
+    transition: all 0.8s ease;
+    font-size: 25px;
+    cursor: pointer;
+}
+.button:hover {
+    color: #100107;
+    background-color: rgb(86, 12, 246);
+}
+.input-right {
+    margin-left: 330px;
+}
+.con {
+    box-sizing: border-box;
+    margin: 80px 0px 0px 200px;
+    width: 70%;
+    background-color: #fff;
+    height: 61.3vh;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#para {
+    text-align: center;
+    font-size: 28px;
+    
+}
