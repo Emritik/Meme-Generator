@@ -30,7 +30,7 @@ input {
     font-size: 25px;
     cursor: pointer;
 }
-.button:hover {
+.button:hover{
     color: #100107;
     background-color: rgb(86, 12, 246);
 }
