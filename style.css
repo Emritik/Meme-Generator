@@ -24,7 +24,7 @@ input {
     font-size: 25px;
     word-wrap: wrap;
 }
-.button {
+.button{
     transition: all 0.8s ease;
     font-size: 25px;
     cursor: pointer;
