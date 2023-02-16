@@ -13,7 +13,7 @@ body {
 .line {
     text-align: center;
 }
-.input {
+.input{
     background-color: aliceblue;
     display: inline-flex;
     font-size: 28px;    
